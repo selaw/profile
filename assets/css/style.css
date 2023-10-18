@@ -1079,9 +1079,12 @@ section {
 .contact .info .email,
 .contact .info .phone {
   margin-top: 40px;
+  justify-content: center;
+  align-items: center;
 }
 
 .contact .info .address {
+  margin-top: 40px;
   justify-content: center;
   align-items: center;
 }
