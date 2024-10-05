@@ -586,6 +586,13 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
+
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
